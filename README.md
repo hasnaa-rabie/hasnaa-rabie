@@ -10,8 +10,16 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Test%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
-- 🏢 I'm a Software Testing Engineer 
+<h3>🚀 About Me</h3> 
+<h4> Software Test Engineer graduated from ITI with BSc degree in 
+Communication and Electronics at AL-Azhar University. Has experience in functional and exploratory 
+testing, and skilled at web test automation using selenium, maven and TestNG as a runner. Looking for 
+a challenging role as a Software Testing Engineer where I can utilize my potential, deepen my 
+knowledge and learn new skills to become a productive employee </h4>
+
+- 🏢 I'm a Software Testing Engineer at DXC Technology. 
 - 👨‍💻 As a Test Engineer, I'm constantly learning and exploring new technologies to improve my skills and enhance my technical skills as a tester.
 - 💬 Ask me about my experience with Manual Testing, API Testing, and Automation Testing using Selenium framework, or anything related to Software Testing.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
@@ -23,13 +31,13 @@
 <a href="https://www.linkedin.com/in/hasnaarabie/" target="_blank"><img src="https://img.shields.io/badge/-Hasnaa%20Rabie-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Selenium](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![API Automation Testing](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Preformance Testing](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Rest-Assured](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
 
 

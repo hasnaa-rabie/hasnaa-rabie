@@ -33,7 +33,7 @@ knowledge and learn new skills to become a productive employee </h4>
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
-![APIAutomationTesting](https://img.shields.io/badge/-API%20Automation%20Testing-05122A?style=flat&logo=API Automation Testing&logoColor=1572B6)&nbsp;
+![APIAutomationTesting](https://img.shields.io/badge/-API%20Automation%20Testing-05122A?style=flat&logo=APIAutomationTesting)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![PreformanceTesting](https://img.shields.io/badge/-Preformance%20Testing-05122A?style=flat&logo=Preformance Testing&logoColor=007ACC)&nbsp;

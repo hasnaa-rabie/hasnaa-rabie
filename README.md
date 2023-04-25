@@ -19,6 +19,10 @@ testing, and skilled at web test automation using selenium, maven and TestNG as 
 a challenging role as a Software Testing Engineer where I can utilize my potential, deepen my 
 knowledge and learn new skills to become a productive employee </h4>
 
+
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+
+
 - 🏢 I'm a Software Testing Engineer at DXC Technology. 
 - 👨‍💻 As a Test Engineer, I'm constantly learning and exploring new technologies to improve my skills and enhance my technical skills as a tester.
 - 💬 Ask me about my experience with Manual Testing, API Testing, and Automation Testing using Selenium framework, or anything related to Software Testing.

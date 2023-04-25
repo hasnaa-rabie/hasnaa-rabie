@@ -31,13 +31,13 @@ knowledge and learn new skills to become a productive employee </h4>
 <a href="https://www.linkedin.com/in/hasnaarabie/" target="_blank"><img src="https://img.shields.io/badge/-Hasnaa%20Rabie-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Selenium](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![API Automation Testing](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
+![API Automation Testing](https://img.shields.io/badge/-API Automation Testing-05122A?style=flat&logo=API Automation Testing&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Preformance Testing](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Rest-Assured](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Preformance Testing](https://img.shields.io/badge/-Preformance%20Testing-05122A?style=flat&logo=Preformance Testing&logoColor=007ACC)&nbsp;
+![Rest-Assured](https://img.shields.io/badge/-Rest-Assured-05122A?style=flat&logo=Rest-Assured)&nbsp;
 
 
 
